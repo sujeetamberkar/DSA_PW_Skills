@@ -47,4 +47,5 @@ Enter second number
 
 ## Q6)
 Output 49
+
 [CODE](https://github.com/sujeetamberkar/DSA_PW_Skills/blob/main/Assignment/Codes/Week1/Q6/code.cpp)
