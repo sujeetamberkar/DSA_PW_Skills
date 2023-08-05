@@ -31,3 +31,9 @@ Condictionals
 
     Ternarry Opperator
 
+    Swich Case Statement
+
+Loops
+    For Loop and its Syntax
+    While Loop
+    Do - While, The code will run atleast once
