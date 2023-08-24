@@ -42,3 +42,8 @@ Loops
     Do - While, The code will run atleast once
 
     Infinite Loop
+
+    Nested loop and pattern printing
+
+        1)Row, col given
+        

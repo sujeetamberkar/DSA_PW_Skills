@@ -63,8 +63,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/DSA/Pratice/Loops/Fibonacci_Number",
-      "program": "c:/DSA/Pratice/Loops/Fibonacci_Number/build/Debug/outDebug",
+      "cwd": "c:/DSA/Pratice/Loops/While/1ton",
+      "program": "c:/DSA/Pratice/Loops/While/1ton/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
