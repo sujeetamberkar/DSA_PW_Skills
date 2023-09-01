@@ -30,6 +30,7 @@ A B C D E F G
 
 
 ## Q3)
+[CODE](https://github.com/sujeetamberkar/DSA_PW_Skills/tree/main/Assignment/Codes/Week3/Pattern%20Printing%20-%202/Q3)
 Required Output
 ```
    A
@@ -39,10 +40,10 @@ DCBABCD
 
 ```
 ## Q4)
+[CODE](https://github.com/sujeetamberkar/DSA_PW_Skills/tree/main/Assignment/Codes/Week3/Pattern%20Printing%20-%202/Q4)
 Required Output:
 
 ```
-
 A B C D E F G
 A B C  E F G
 A B    F G
@@ -50,7 +51,7 @@ A      G
 
 ```
 ## Q5)
-
+[CODE](https://github.com/sujeetamberkar/DSA_PW_Skills/tree/main/Assignment/Codes/Week3/Pattern%20Printing%20-%202/Q5)
 
 Required Output:
 
@@ -63,7 +64,7 @@ Required Output:
 
 ```
 ## Q6)
-
+[CODE](https://github.com/sujeetamberkar/DSA_PW_Skills/tree/main/Assignment/Codes/Week3/Pattern%20Printing%20-%202/Q6)
 Required Output:
 
 
@@ -77,7 +78,7 @@ Required Output:
 ```
 
 ## Q7)
-
+[CODE](https://github.com/sujeetamberkar/DSA_PW_Skills/tree/main/Assignment/Codes/Week3/Pattern%20Printing%20-%202/Q7)
 ```
    *
   *  *
@@ -89,6 +90,7 @@ Required Output:
 ```
 
 ## Q8)
+[CODE](https://github.com/sujeetamberkar/DSA_PW_Skills/tree/main/Assignment/Codes/Week3/Pattern%20Printing%20-%202/Q8)
 ```
    1
   2  2
@@ -97,6 +99,7 @@ Required Output:
 ```
 
 ## Q9)
+[CODE](https://github.com/sujeetamberkar/DSA_PW_Skills/tree/main/Assignment/Codes/Week3/Pattern%20Printing%20-%202/Q9)
 ```
     *
    ***
@@ -112,7 +115,7 @@ Required Output:
 ```
 
 ## Q10)
-
+[CODE](https://github.com/sujeetamberkar/DSA_PW_Skills/tree/main/Assignment/Codes/Week3/Pattern%20Printing%20-%202/Q10)
 ```
 *      *
 **    **
@@ -125,6 +128,7 @@ Required Output:
 ```
 
 ## Q11)
+[CODE](https://github.com/sujeetamberkar/DSA_PW_Skills/tree/main/Assignment/Codes/Week3/Pattern%20Printing%20-%202/Q11)
 ```
 *******
 *** ***
