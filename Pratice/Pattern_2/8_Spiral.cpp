@@ -9,9 +9,9 @@ int main() {
 
     int size = 2 * number - 1; // Calculate the size of the pattern matrix
 
-    int pattern[size][size]; // Declare a 2D array to store the pattern values
+    int pattern[size][size]; 
 
-    // Fill the pattern matrix with the appropriate values
+    
     for (int i = 0; i < size; i++) {
         for (int j = 0; j < size; j++) {
             // The value at each position is determined by its distance from the center (number - 1, number - 1)
@@ -19,7 +19,6 @@ int main() {
         }
     }
 
-    // Print the pattern matrix
     for (int i = 0; i < size; i++) {
         for (int j = 0; j < size; j++) {
             cout << pattern[i][j]; // Print the value at the current position
@@ -37,12 +36,11 @@ int main() {
         }
     }
 
-    // Print the pattern matrix
     for (int i = 0; i < size; i++) {
         for (int j = 0; j < size; j++) {
-            cout << pattern[i][j]; // Print the value at the current position
+            cout << pattern[i][j]; 
         }
-        cout << endl; // Move to the next line after each row is printed
+        cout << endl; 
     }
     return 0;
 }
