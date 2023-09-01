@@ -2,6 +2,7 @@
 
 ## Q1)
 
+[CODE](https://github.com/sujeetamberkar/DSA_PW_Skills/tree/main/Assignment/Codes/Week3/Pattern%20Printing%20-%202/Q1)
 Required Output:
 
 ```
@@ -13,7 +14,7 @@ Required Output:
 ```
 
  ## Q2)
-
+[CODE](https://github.com/sujeetamberkar/DSA_PW_Skills/tree/main/Assignment/Codes/Week3/Pattern%20Printing%20-%202/Q2)
 Required Output:
 
 ```
