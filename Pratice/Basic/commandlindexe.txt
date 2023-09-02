@@ -1,0 +1,24 @@
+gcc fileName.cpp  && ./a.out
+gcc fileName.cpp -o run --std=c++14
+
+
+
+
+
+Only Pre Processor
+Complier se just pahale 
+# define ln long
+// Remove comments 
+
+
+
+g++ -E fileName.cpp
+transfer the pre_Prcessod fileName
+g++ -E fileName.cpp > filen.cpp
+
+
+Convert the C++ code -----> Assembly Level Language 
+g++ -S fileName.cpp
+
+omtimised file
+g++ -s -o3 demo.cpp
