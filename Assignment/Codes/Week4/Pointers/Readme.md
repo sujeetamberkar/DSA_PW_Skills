@@ -2,7 +2,7 @@
 
 ## Q1 : Write a program to find the product of two numbers using pointers.
 
-[CODE]()
+[CODE](https://github.com/sujeetamberkar/DSA_PW_Skills/tree/main/Assignment/Codes/Week4/Pointers/Q1)
 
 ## Q2 : int *p, q;
 
@@ -22,7 +22,7 @@ cout << *ptr << ‘ ‘ << a << ‘ ‘ << b;
 Output:
 11 10 11
 
-[CODE]()
+[CODE](https://github.com/sujeetamberkar/DSA_PW_Skills/tree/main/Assignment/Codes/Week4/Pointers/Q3)
 
 ## Q4: Find the output of the following code snippet.
 ```
@@ -33,7 +33,7 @@ int *ptr2 = &b;
 
 ```
 Answer: a gets value of b
-[CODE]()
+[CODE](https://github.com/sujeetamberkar/DSA_PW_Skills/tree/main/Assignment/Codes/Week4/Pointers/Q4)
 
 ## Q5:Is the following program snippet correct?
 ```
@@ -41,7 +41,9 @@ int a = 10, b = 20;
 int *ptr;
 *ptr = 5;
 ```
+[CODE](https://github.com/sujeetamberkar/DSA_PW_Skills/tree/main/Assignment/Codes/Week4/Pointers/Q5)
 ### NO,
+
 In this code, you are creating two variables 'a' and 'b'.
 
 int a=10, int b=20
