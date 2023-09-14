@@ -58,6 +58,7 @@
   "files.associations": {
     "ostream": "cpp",
     "iostream": "cpp",
-    "valarray": "c"
+    "valarray": "c",
+    "vector": "cpp"
   }
 }

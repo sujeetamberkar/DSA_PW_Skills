@@ -15,8 +15,8 @@ int main()
     {
         cin>>array[number];
     }
-    product_Array()
-
+    int answer=product_Array(array,number);
+    cout<<"The Product"<<answer;
 
 return 0;
 }
