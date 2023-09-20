@@ -59,6 +59,9 @@
     "ostream": "cpp",
     "iostream": "cpp",
     "valarray": "c",
-    "vector": "cpp"
+    "vector": "cpp",
+    "istream": "cpp",
+    "string": "cpp",
+    "iosfwd": "cpp"
   }
 }
