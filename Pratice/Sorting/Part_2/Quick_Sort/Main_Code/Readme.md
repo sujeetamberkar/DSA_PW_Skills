@@ -30,3 +30,11 @@
 ### Step 3: Recursion
 - **Left Sub-array**: \[4, 1, 3, 2\]   (Start, Piviot -1)
 - **Left Sub-array**: \[4, 1, 3, 2\]   (Piviot +1, End)
+
+### Not stable 
+-  There is no order followed 
+
+### Application of Quick Sort 
+  - 1) Internal SOrting 
+  - 2) Quick Select 
+  - 3) Whenever there is no need of stability 

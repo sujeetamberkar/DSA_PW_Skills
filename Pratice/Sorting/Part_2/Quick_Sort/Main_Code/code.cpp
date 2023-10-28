@@ -135,3 +135,15 @@ int partition(int array[],int start_index,int end_index)
 // 5,4,3,2,1 or 1,2,3,4,5
 
 
+// Space COmplexity : Each Call, (Start and ending index is created )
+// Local variable is destoyed after every call 
+// At Max the space Complexity will be 
+// O (Log n) (Function Call)
+
+// Not stable 
+// There is no order followed 
+
+// Application of Quick Sort 
+// 1) Internal SOrting 
+// 2) Quick Select 
+// 3) Whenever there is no need of stability 

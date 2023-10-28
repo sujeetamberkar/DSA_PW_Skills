@@ -62,6 +62,9 @@
     "vector": "cpp",
     "istream": "cpp",
     "string": "cpp",
-    "iosfwd": "cpp"
+    "iosfwd": "cpp",
+    "__locale": "cpp",
+    "system_error": "cpp",
+    "typeinfo": "cpp"
   }
 }

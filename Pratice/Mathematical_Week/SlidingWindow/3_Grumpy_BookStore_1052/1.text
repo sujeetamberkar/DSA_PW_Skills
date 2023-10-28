@@ -1,0 +1,51 @@
+    int maxSatisfied(vector<int>& customers, vector<int>& grumpy, int minutes) {
+    if (customers.size() ==minutes)
+    {
+        int sum = 0;
+        for (int element : customers){
+            sum+=element;
+        }
+        return sum;
+    }
+        // find loss of satisfaction in a window 
+    int n = customers.size();
+    int loss = 0;
+
+    for (int i = 0; i < minutes;i++)
+    {
+        loss = loss + customers[i] * grumpy[i];
+    }
+    int max_loss = loss;
+    // cout<<"Initial loss "<<loss<<"\t"<<max_loss;
+    int i = 1;
+    int j = minutes;
+    int index= -1;
+    while (j < n)
+    {
+        loss = loss - customers[i-1] * grumpy[i-1];
+        loss = loss + customers[j] * grumpy[j];
+
+        if (loss > max_loss)
+        {
+            max_loss = loss;
+            index = i;
+        }
+        i++;
+        j++;
+
+    }
+    int answer = 0;
+    for (int m = 0; m < n; m++) {
+        // For the segment inside the minutes window, add all customers
+        if (index <= m && m < index + minutes) {
+            answer += customers[m];
+        }
+        // For segments outside the window, add customer if grumpy is 0
+        else {
+            answer += customers[m] * (1 - grumpy[m]);
+        }
+    }
+
+
+    return answer;
+    }

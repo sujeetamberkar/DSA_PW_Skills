@@ -48,7 +48,7 @@ int partition(int array[],int start_index,int end_index)
         }
     }
     int piviot_index= count+start_index;
-    swap(array[start_index],array[piviot_index]);
+    swap(array[(start_index+end_index)/2],array[piviot_index]);
 
     int i = start_index;
     int j = end_index;
