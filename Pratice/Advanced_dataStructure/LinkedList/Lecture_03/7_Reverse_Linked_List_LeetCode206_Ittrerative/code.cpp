@@ -1,0 +1,53 @@
+#include <iostream>
+using namespace std;
+
+/*
+    1) To preserve the NEXT pointer (3 pointer approach)
+*/
+class ListNode
+{
+public:
+    int val;
+    ListNode *next;
+    ListNode(int val) : val(val), next(NULL) {}
+};
+void display(ListNode *node)
+{
+    ListNode *temp = node;
+    while (temp != NULL)
+    {
+        cout << temp->val << "\t";
+        temp = temp->next;
+    }
+    cout << endl;
+}
+ListNode *reverseList(ListNode *);
+int main()
+{
+    ListNode* head = new ListNode (1);
+    head->next = new ListNode(2);
+    head->next->next = new ListNode(3);
+    head->next->next->next = new ListNode(4);
+    head->next->next->next->next = new ListNode(5);
+    display(head);
+    head=reverseList(head);
+    display(head);
+}
+ListNode *reverseList(ListNode *head)
+{
+
+ListNode *prev = NULL;
+ListNode *NEXT=NULL;
+ListNode *current= head;
+
+while (NEXT!=NULL || current != NULL)
+{
+   NEXT = current->next;
+   current->next=prev;
+   prev=current;
+   current=NEXT;
+}
+return prev;
+
+
+}
