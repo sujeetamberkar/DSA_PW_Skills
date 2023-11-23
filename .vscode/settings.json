@@ -119,6 +119,7 @@
     "compare": "cpp",
     "concepts": "cpp",
     "numeric": "cpp",
-    "algorithm": "cpp"
+    "algorithm": "cpp",
+    "stack": "cpp"
   }
 }
