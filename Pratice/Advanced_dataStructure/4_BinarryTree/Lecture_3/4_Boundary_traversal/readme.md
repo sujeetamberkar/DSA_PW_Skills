@@ -1,0 +1,3 @@
+- 1) Print all the elements except the interior elements 
+- 2) Left Boundary + Right Boundary + Leaf Node
+- 3) Left Boundary, Botom Boundary , Right Boundary

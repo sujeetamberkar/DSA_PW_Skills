@@ -1,0 +1,5 @@
+- 1) Store the root in a stack
+- 2) remove the root
+- 3) Push_back 1
+- 4) Check left, right and push
+- 5) Store in vector and then reverse the vector
