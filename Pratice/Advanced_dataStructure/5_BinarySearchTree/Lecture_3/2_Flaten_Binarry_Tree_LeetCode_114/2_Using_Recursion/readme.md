@@ -1,0 +1,4 @@
+# Preorder
+    root
+    left
+    right

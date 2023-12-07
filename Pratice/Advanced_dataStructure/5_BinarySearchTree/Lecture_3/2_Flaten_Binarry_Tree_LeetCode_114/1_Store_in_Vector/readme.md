@@ -1,0 +1,2 @@
+- 1) Store the nodes in a vector in preorder sequence
+- 2) Then run a loop to establish the right connection and left = NULL
