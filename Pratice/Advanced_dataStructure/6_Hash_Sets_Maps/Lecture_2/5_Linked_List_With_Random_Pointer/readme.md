@@ -1,0 +1,2 @@
+- 1) Make a deep coppy 
+- 2) Make an unordered map <Node* >
